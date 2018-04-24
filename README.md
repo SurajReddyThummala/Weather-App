@@ -10,4 +10,12 @@ Redux promise is used as a middleware to promise the network request.
 
 SET-UP:
 
-"# Weather-App" 
+git clone https://github.com/SurajReddyThummala/Weather-App.git
+
+npm install
+
+npm start
+
+visit localhost:8080 on browser
+
+This project is a part of Udemy Stephen Grider Course
